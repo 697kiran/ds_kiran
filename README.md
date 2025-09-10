@@ -18,4 +18,4 @@
 ## ⚙️ Setup Instructions
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<yourusername>/ds_<yourname>.git
+   git clone https://github.com/697kiran/ds_kiran.git
