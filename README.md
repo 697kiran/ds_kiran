@@ -2,7 +2,7 @@
 ---
 
 ## 🔗 Google Colab Links
-- [Notebook 1: Main Analysis](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+- [Notebook 1: Main Analysis](https://colab.research.google.com/drive/1Cqtp20YizfnNBEgw9ujCVcg1EnqOrnhj?usp=sharing)
 - [Notebook 2: Experimental Analysis](https://colab.research.google.com/drive/1nSycFgdcfRP5nKtQsMOpShoB2Lq3Sknk?usp=sharing)
 
 ---
